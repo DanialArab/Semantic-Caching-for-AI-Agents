@@ -24,3 +24,5 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/semantic_catch_in_prod.png)
 
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/improving_semantic_catch.png)
+
