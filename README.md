@@ -18,3 +18,7 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/semantic_catching.png)
 
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/1_semantic_catch.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/vector_search.png)
+
