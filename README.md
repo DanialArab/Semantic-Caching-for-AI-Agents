@@ -14,3 +14,7 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/DRY.png)
 
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/exact_match.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/semantic_catching.png)
+
