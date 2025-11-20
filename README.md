@@ -36,4 +36,16 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/data_for_catch_eval.png)
 
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/metrics_with_an_example.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/chr.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/precision.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/recall.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/cm.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/p_r.png)
+
 ![](
