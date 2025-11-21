@@ -52,4 +52,20 @@
 
 ![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/latency_performance.png)
 
-![](
+### Enhancing Cache Effectiveness
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/threshold_sweep.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/cross_encoder_reranker.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/cross_encoder_reranker_2.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/cross_encoder_reranker_3.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/llm_reranker.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/llm_reranker_2.png)
+
+![](https://github.com/DanialArab/images/blob/main/Semantic%20Caching%20for%20AI%20Agents/fuzzy_matching.png)
+
+
